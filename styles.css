@@ -13,16 +13,14 @@ p.Description {
     display: inline-block;
 }
 
-li a {
-    font-size: 24px;
-    padding: 5px;
-    margin: 5px;
-    display: inline-block;
-}
-
 img {
     border: 1px solid black;
     height: auto;
     width: 350px;
     display: inline-block;
+}
+
+nav {
+    font-size: medium;
+    text-align: center;
 }
