@@ -1,6 +1,5 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: gray;
 }
 
 h1 {
@@ -11,14 +10,19 @@ h1 {
 
 p.Description {
     font-style: italic;
+    display: inline-block;
 }
 
 li a {
     font-size: 24px;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
 }
 
 img {
     border: 1px solid black;
     height: auto;
     width: 350px;
+    display: inline-block;
 }
